@@ -1,0 +1,7 @@
+---
+controller_organizations:
+  - name: "{{ orgs }}"
+    description: "Organization for demo environment"
+    galaxy_credentials: 
+      - "Ansible Galaxy"
+...
